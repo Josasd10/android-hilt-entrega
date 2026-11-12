@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="com.example.android.hilt.AppTest" tests="6" failures="0" errors="0" skipped="0" time="14.538" timestamp="2026-11-12T03:57:03">
+  <testcase name="happyPath" classname="com.example.android.hilt.AppTest" time="4.376" />
+  <testcase name="deleteLogsClearsSharedActivityLogger" classname="com.example.android.hilt.AppTest" time="4.359" />
+  <testcase name="recreatingActivityStartsANewInMemoryLogger" classname="com.example.android.hilt.AppTest" time="3.947" />
+  <testcase name="queryAllAndOneLogThroughHiltEntryPoint" classname="com.example.android.hilt.LogsContentProviderTest" time="0.292" />
+  <testcase name="providerRejectsWrites" classname="com.example.android.hilt.LogsContentProviderTest" time="0.038" />
+  <testcase name="providerRejectsUnknownUris" classname="com.example.android.hilt.LogsContentProviderTest" time="0.108" />
+</testsuite>
